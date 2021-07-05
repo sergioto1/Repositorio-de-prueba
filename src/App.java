@@ -7,6 +7,7 @@ public class App {
         System.out.println("Ingrese su nombre por favor");
         String nombre = sc.nextLine();
         sc.close();
-        System.out.println("Hola " + nombre + " !");
+        System.out.println("Hola " + nombre + " !!");
+        System.out.println("Hasta Luego");  
     }
 }
